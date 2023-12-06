@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David Ponce (@davidaponce)
+# 👋 Hi, I'm David Ponce
 
 Welcome to my GitHub profile!
 
