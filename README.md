@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 - 📚 I'm also a Teaching Assistant for the First Year Research Immersion Program at Binghamton University, guiding students through the fundamentals of research.
 
 ## Reach Me
-- 📫 Feel free to connect with me on [Instagram @swimmerponce](https://www.instagram.com/swimmerponce) or on [LinkedIn](https://www.linkedin.com/in/david-ponce22/).
+- 📫 Feel free to connect with me on [Instagram](https://www.instagram.com/swimmerponce) or on [LinkedIn](https://www.linkedin.com/in/david-ponce22/).
 
 <!---
 davidaponce/davidaponce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
