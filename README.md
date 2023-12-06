@@ -18,8 +18,8 @@ Welcome to my GitHub profile!
 - 💞️ I'm open to collaborating on projects related to **AI and Machine Learning**. I'm keen on applying my skills in real-world scenarios and contributing to innovative solutions.
 
 ## Experience
-- 🧠 I've been involved in research focused on the detection of deepfakes through emotional recognition in videos, utilizing neural networks and deep learning frameworks like TensorFlow, PyTorch, and Keras.
-- 📚 I'm also a Teaching Assistant for the First Year Research Immersion Program at Binghamton University, guiding students through the fundamentals of research.
+- 🧠 Involved in research focused on the detection of deepfakes through emotional recognition in videos, utilizing neural networks and deep learning frameworks like TensorFlow, PyTorch, and Keras.
+- 📚 As a Teaching Assistant for the First Year Research Immersion Program at Binghamton University, I guide students through the fundamentals of research. Additionally, I play a key role in helping them learn Python and its applications in machine learning, empowering them with the skills needed for cutting-edge technological innovation.
 
 ## Reach Me
 - 📫 Feel free to connect with me on [Instagram](https://www.instagram.com/swimmerponce) or on [LinkedIn](https://www.linkedin.com/in/david-ponce22/).
