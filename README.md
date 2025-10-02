@@ -5,11 +5,11 @@ Welcome to my GitHub profile!
 ## About Me
 - 🎓 I'm currently pursuing a Bachelor of Science in Computer Science at Binghamton University, expected to graduate in May 2026.
 - 🏊‍♂️ Outside of coding, I'm a passionate swimmer and part of the Binghamton University Men's Division 1 Swim & Dive Team.
-- 🌐 You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/david-ponce22/).
+- 🌐 You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/david-ponce22/) or on my [portfolio](https://davidaponce.github.io/).
 
 ## Interests
 - 👀 I'm deeply fascinated by the world of **Machine Learning and Artificial Intelligence**. I'm always seeking opportunities to explore and innovate in this field.
-- 📊 My technical skills include Python, C++, Digital Circuit Design, Git, and Linux. I'm also fluent in Spanish.
+- 📊 My technical skills include Python, C++, 3D prints, Git, and Linux. I'm also fluent in Spanish.
 
 ## Current Learning
 - 🌱 I'm actively expanding my knowledge in **Machine Learning**. My coursework and research have been centered around data structures, algorithms, and machine learning applications.
