@@ -1,30 +1,23 @@
 # 👋 Hi, I'm David Poncé
 
-Welcome to my GitHub profile!
+I'm a Computer Science master's student at NYU Tandon and a Binghamton University CS grad. I like building tools that take a messy workflow and make it easier for someone to get their work done.
 
-## About Me
-- 🎓 I'm currently pursuing a Bachelor of Science in Computer Science at Binghamton University, expected to graduate in May 2026.
-- 🏊‍♂️ Outside of coding, I'm a passionate swimmer and part of the Binghamton University Men's Division 1 Swim & Dive Team.
-- 🌐 You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/david-ponce22/) or on my [portfolio](https://davidaponce.github.io/).
+## What I'm working on
 
-## Interests
-- 👀 I'm deeply fascinated by the world of **Machine Learning and Artificial Intelligence**. I'm always seeking opportunities to explore and innovate in this field.
-- 📊 My technical skills include Python, C++, 3D prints, Git, and Linux. I'm also fluent in Spanish.
+- **AI agents for financial reporting.** I'm building a Python workflow that uses historical data to flag unusual changes and an LLM to draft updates that people can check against the source data.
+- **Data engineering and backend development.** At NYU, I'm digging into databases, distributed data processing, and the systems that support data-heavy applications.
 
-## Current Learning
-- 🌱 I'm actively expanding my knowledge in **Machine Learning**. My coursework and research have been centered around data structures, algorithms, and machine learning applications.
+## A few things I've done
 
-## Collaboration
-- 💞️ I'm open to collaborating on projects related to **AI and Machine Learning**. I'm keen on applying my skills in real-world scenarios and contributing to innovative solutions.
+- **Software Engineering Intern at NeuralSeek.** Built tools for drafting meeting debriefs, product requirements, software quotes, and statements of work. I worked with React, PostgreSQL, and LLM workflows.
+- **Deepfake audio research.** Collaborated with Intel on research into audio deepfake defenses, with work published at Interspeech.
+- **HackMIT 2025.** Co-built EcoPrompt, a Chrome extension that placed third in the Infosys Diamond Sponsor Challenge.
+- **Teaching and swimming at Binghamton.** Helped students learn Python and machine learning as a First-Year Research Immersion TA and served as captain of the Division I men's swim team.
 
-## Experience
-- 🧠 Involved in research focused on the detection of deepfakes through emotional recognition in videos, utilizing neural networks and deep learning frameworks like TensorFlow, PyTorch, and Keras.
-- 📚 As a Teaching Assistant for the First Year Research Immersion Program at Binghamton University, I guide students through the fundamentals of research. Additionally, I play a key role in helping them learn Python and its applications in machine learning, empowering them with the skills needed for cutting-edge technological innovation.
+## Tools I work with
 
-## Reach Me
-- 📫 Feel free to connect with me on [Instagram](https://www.instagram.com/swimmerponce) or on [LinkedIn](https://www.linkedin.com/in/david-ponce22/).
+Python · C++ · TypeScript · SQL · React · PostgreSQL · Docker · Git · Linux
 
-<!---
-davidaponce/davidaponce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm open to collaborating on AI tools, data projects, and developer tools. I also speak Spanish.
+
+[LinkedIn](https://www.linkedin.com/in/david-ponce22/) · [Portfolio](https://davidaponce.github.io/)
